@@ -1,0 +1,19 @@
+{
+  "name": "js-blackjack-1.0.0",
+  "version": "1.0.0",
+  "description": "blackjack mini game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oqErik/blackjack.git"
+  },
+  "author": "Erik Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oqErik/blackjack/issues"
+  },
+  "homepage": "https://github.com/oqErik/blackjack#readme"
+}
